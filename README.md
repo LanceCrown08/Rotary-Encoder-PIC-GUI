@@ -45,8 +45,8 @@ def read_serial():
 ```
 ## 🎓 Acknowledgements
 
-(start_span)I would like to express my sincere gratitude to Mr. Shobhit Yadava, Aryabhatta Research Institute of Observational Sciences (ARIES), for giving me the opportunity to carry out this short-term project under the Visiting Student Programme at ARIES (VSPA)[span_0](end_span). [span_1](start_span)I am deeply thankful for his constant guidance, encouragement, and insightful technical discussions, which were crucial in shaping my understanding throughout the course of this work[span_1](end_span).
+I would like to express my sincere gratitude to Mr. Shobhit Yadava, Aryabhatta Research Institute of Observational Sciences (ARIES), for giving me the opportunity to carry out this short-term project under the Visiting Student Programme at ARIES (VSPA).I am deeply thankful for his constant guidance, encouragement, and insightful technical discussions, which were crucial in shaping my understanding throughout the course of this work.
 
-(start_span)I sincerely thank the faculty members of the Department of Electronics and Communication Engineering, Govind Ballabh Pant Institute of Engineering and Technology, Pauri, for their academic support and encouragement throughout my undergraduate studies[span_2](end_span). 
+I sincerely thank the faculty members of the Department of Electronics and Communication Engineering, Govind Ballabh Pant Institute of Engineering and Technology, Pauri, for their academic support and encouragement throughout my undergraduate studies. 
 
-(start_span)Finally, I express my heartfelt gratitude to my family and friends for their constant support, motivation, and understanding during this period[span_3](end_span).
+Finally, I express my heartfelt gratitude to my family and friends for their constant support, motivation, and understanding during this period.
